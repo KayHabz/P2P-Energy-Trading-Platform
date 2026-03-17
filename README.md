@@ -1,6 +1,6 @@
 # 🔋 P2P Blockchain Energy Trading Platform
 
-# Author - Kalaluka Habeenzu
+# Author - Kay Habz
 
 A decentralized, secure, and transparent peer-to-peer energy trading platform powered by blockchain technology. Built for communities to trade energy efficiently without central intermediaries.
 
