@@ -8,7 +8,7 @@ A decentralized, secure, and transparent peer-to-peer energy trading platform po
 
 ## 🚀 Project Overview
 
-This platform enables users to buy and sell energy tokens directly with one another using smart contracts deployed on the Polygon blockchain. It offers a user-friendly web interface for energy producers and consumers to trade seamlessly and securely.
+This is a prototype of a platform that enables users to buy and sell energy tokens directly with one another using smart contracts deployed on the Polygon blockchain. It offers a user-friendly web interface for energy producers and consumers to trade seamlessly and securely.
 
 ---
 
@@ -31,7 +31,7 @@ This platform enables users to buy and sell energy tokens directly with one anot
 | Frontend               | React.js, ethers.js     |
 | Blockchain Network     | Polygon (Mumbai Testnet)|
 | Testing & Simulation   | Hardhat, MetaMask       |
-| Local Dev Blockchain   | Hardhat (in place of Ganache) |
+| Local Dev Blockchain   | Hardhat                 |
 | Backend (off-chain)    | Python (Optional)       |
 | Version Control        | Git + GitHub            |
 
