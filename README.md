@@ -29,10 +29,9 @@ This is a prototype of a platform that enables users to buy and sell energy toke
 |------------------------|-------------------------|
 | Smart Contracts        | Solidity, Hardhat       |
 | Frontend               | React.js, ethers.js     |
-| Blockchain Network     | Polygon (Mumbai Testnet)|
+| Blockchain Network     | Polygon                 |
 | Testing & Simulation   | Hardhat, MetaMask       |
 | Local Dev Blockchain   | Hardhat                 |
-| Backend (off-chain)    | Python (Optional)       |
 | Version Control        | Git + GitHub            |
 
 ---
